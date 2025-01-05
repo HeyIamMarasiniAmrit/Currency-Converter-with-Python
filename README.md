@@ -19,3 +19,32 @@ Import required Libraries: Our Python project uses the Tkinter and requests libr
 CurrencyConverter Class:Afterward, we will create a CurrencyConverter class that gathers real-time exchange rates, converts the currency, and returns the converted amount.
 UI for CurrencyConverter: Next step will be to create a user interface for a currency converter.
 Lastly create the main function.
+🚀 New Features to Add
+Historical Exchange Rates
+
+Allow users to select a past date and see historical conversion rates.
+Currency Conversion History
+
+Display the last few conversions within the app.
+Reverse Conversion Button
+
+Add a button to quickly swap "From" and "To" currencies.
+Favorite Currency Pairs
+
+Allow users to save frequently used currency pairs.
+Live Update Indicator
+
+Show the last update time for exchange rates.
+Graph for Trends
+
+Display a graph showing currency trends over a week or month.
+Auto-Update Exchange Rates
+
+Add a button or a scheduled timer to fetch fresh rates from the API.
+Error Logging System
+
+Log errors to a file for easier debugging.
+Dark/Light Theme Toggle
+
+Allow users to switch between dark and light themes.
+
